@@ -30,13 +30,16 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
 builder.Services.AddAuthorization(); // <-- WAJIB
 
-// CORS
-
+// CORS - Updated untuk production
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFlutterWeb", policy =>
     {
-        policy.WithOrigins("http://localhost:57307") // Ganti jika port flutter berubah
+        policy.WithOrigins(
+                "http://localhost:57307", // Untuk development
+                "https://yourdomain.com", // Ganti dengan domain Flutter web production Anda
+                "*" // HATI-HATI: Hanya untuk testing, jangan untuk production
+              )
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
@@ -48,20 +51,19 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Swagger
-if (app.Environment.IsDevelopment())
+// SWAGGER - DIAKTIFKAN UNTUK SEMUA ENVIRONMENT
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "API DikaWaroong V1");
+    c.RoutePrefix = "swagger"; // URL akan jadi /swagger
+});
 
 app.UseCors("AllowFlutterWeb");
-
 app.UseHttpsRedirection();
-app.UseAuthentication(); // <-- PENTING URUTANNYA
+app.UseAuthentication(); 
 app.UseAuthorization();
 app.UseStaticFiles();
-
 app.MapControllers();
 
 app.Run();
