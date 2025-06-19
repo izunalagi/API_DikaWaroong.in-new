@@ -1,0 +1,6 @@
+@API_DikaWaroong_HostAddress = http://localhost:5239
+
+GET {{API_DikaWaroong_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

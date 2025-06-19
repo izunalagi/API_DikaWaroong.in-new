@@ -1,0 +1,800 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\dtos\\editprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\dtos\\editprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\controllers\\transaksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\controllers\\transaksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\controllers\\produkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\controllers\\produkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\controllers\\detailtransaksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\controllers\\detailtransaksicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\buktitf\\f1c5f731-ba0e-460c-a220-069b6de960e3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\buktitf\\f1c5f731-ba0e-460c-a220-069b6de960e3.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\images\\d8e5f723-c0f4-44ad-8e2a-a1cdaa3f568e.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\images\\d8e5f723-c0f4-44ad-8e2a-a1cdaa3f568e.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\images\\ddc33a24-faa9-4c4f-b444-e186b5b55eae.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\images\\ddc33a24-faa9-4c4f-b444-e186b5b55eae.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\images\\f4cc1224-e54c-4bdf-9082-a31eb7509537.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\images\\f4cc1224-e54c-4bdf-9082-a31eb7509537.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\gallery\\3838dff6-3e67-477a-9c2a-b12f282a864d.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\gallery\\3838dff6-3e67-477a-9c2a-b12f282a864d.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\gallery\\6dae9297-a10a-411d-8681-57b392cb05d4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\gallery\\6dae9297-a10a-411d-8681-57b392cb05d4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\gallery\\e4d68cc4-11c5-4ed1-8271-ab1fbd16be96.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\gallery\\e4d68cc4-11c5-4ed1-8271-ab1fbd16be96.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\gallery\\fba25123-bb14-44c6-b576-1b1cd7d1c91a.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\gallery\\fba25123-bb14-44c6-b576-1b1cd7d1c91a.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\gallery\\ecad03af-5abc-4067-8a6e-98774a5e5cc8.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\gallery\\ecad03af-5abc-4067-8a6e-98774a5e5cc8.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\gallery\\ff1c6f45-604a-4f48-9019-7335917e12bf.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\gallery\\ff1c6f45-604a-4f48-9019-7335917e12bf.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\bukti\\74f3b308-bd9a-4bba-940b-41c16ca447d4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\bukti\\74f3b308-bd9a-4bba-940b-41c16ca447d4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\bukti\\898a71d2-ee8e-458b-b7a5-691ee88dc6cb.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\bukti\\898a71d2-ee8e-458b-b7a5-691ee88dc6cb.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\bukti\\c4328f50-eba9-4d04-a27a-a9506b21b365.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\bukti\\c4328f50-eba9-4d04-a27a-a9506b21b365.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\wwwroot\\bukti\\c4b52f18-8c7d-4625-b580-a15b00be4ca6.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\wwwroot\\bukti\\c4b52f18-8c7d-4625-b580-a15b00be4ca6.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\updatebuktitfrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\updatebuktitfrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\createtransaksirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\createtransaksirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\createdetailtransaksirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\createdetailtransaksirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\creategalleryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\creategalleryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\detailtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\detailtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\helpers\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\helpers\\sqldbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\api_dikawaroong.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\api_dikawaroong.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|d:\\kuliah farel\\semester 4\\paa\\api_dikawaroong\\api_dikawaroong\\api_dikawaroong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6547E590-A828-4893-A1D3-7168F667B5A4}|API_DikaWaroong\\API_DikaWaroong.csproj|solutionrelative:api_dikawaroong\\api_dikawaroong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditProfileDto.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Dtos\\EditProfileDto.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Dtos\\EditProfileDto.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Dtos\\EditProfileDto.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Dtos\\EditProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T11:05:48.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Dtos\\ForgotPasswordDto.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Dtos\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:21:47.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetailTransaksiController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\DetailTransaksiController.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Controllers\\DetailTransaksiController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\DetailTransaksiController.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Controllers\\DetailTransaksiController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAiwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:40:44.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Program.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Program.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Program.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:39:28.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAuwPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:16:28.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Akun.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Akun.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\Akun.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Akun.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\Akun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:10:21.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransaksiController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\TransaksiController.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Controllers\\TransaksiController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\TransaksiController.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Controllers\\TransaksiController.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAcwBQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:28:51.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Dtos\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Dtos\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Dtos\\ChangePasswordDto.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Dtos\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:10:53.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produk.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Produk.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\Produk.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Produk.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\Produk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:53:55.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\appsettings.json",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\appsettings.json",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\appsettings.json",
+              "RelativeToolTip": "API_DikaWaroong\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T14:56:14.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_DikaWaroong\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T18:01:19.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ddc33a24-faa9-4c4f-b444-e186b5b55eae.png -  [English (United States)] - PNG [1189x124, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\images\\ddc33a24-faa9-4c4f-b444-e186b5b55eae.png",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\images\\ddc33a24-faa9-4c4f-b444-e186b5b55eae.png",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\images\\ddc33a24-faa9-4c4f-b444-e186b5b55eae.png -  [English (United States)] - PNG [1189x124, 32 bit, PNG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\images\\ddc33a24-faa9-4c4f-b444-e186b5b55eae.png -  [English (United States)] - PNG [1189x124, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:04:07.864Z",
+              "EditorCaption": " -  [English (United States)] - PNG [1189x124, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "6dae9297-a10a-411d-8681-57b392cb05d4.jpg -  [English (United States)] - Bitmap [1280x720, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\6dae9297-a10a-411d-8681-57b392cb05d4.jpg",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\gallery\\6dae9297-a10a-411d-8681-57b392cb05d4.jpg",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\6dae9297-a10a-411d-8681-57b392cb05d4.jpg -  [English (United States)] - Bitmap [1280x720, 24 bit, JPG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\gallery\\6dae9297-a10a-411d-8681-57b392cb05d4.jpg -  [English (United States)] - Bitmap [1280x720, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:04:01.114Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1280x720, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "d8e5f723-c0f4-44ad-8e2a-a1cdaa3f568e.png -  [English (United States)] - PNG [369x664, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\images\\d8e5f723-c0f4-44ad-8e2a-a1cdaa3f568e.png",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\images\\d8e5f723-c0f4-44ad-8e2a-a1cdaa3f568e.png",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\images\\d8e5f723-c0f4-44ad-8e2a-a1cdaa3f568e.png -  [English (United States)] - PNG [369x664, 32 bit, PNG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\images\\d8e5f723-c0f4-44ad-8e2a-a1cdaa3f568e.png -  [English (United States)] - PNG [369x664, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:04:10.487Z",
+              "EditorCaption": " -  [English (United States)] - PNG [369x664, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdukController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\ProdukController.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Controllers\\ProdukController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\ProdukController.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Controllers\\ProdukController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAE4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:54:31.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "f4cc1224-e54c-4bdf-9082-a31eb7509537.jpg -  [English (United States)] - Bitmap [959x575, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\images\\f4cc1224-e54c-4bdf-9082-a31eb7509537.jpg",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\images\\f4cc1224-e54c-4bdf-9082-a31eb7509537.jpg",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\images\\f4cc1224-e54c-4bdf-9082-a31eb7509537.jpg -  [English (United States)] - Bitmap [959x575, 24 bit, JPG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\images\\f4cc1224-e54c-4bdf-9082-a31eb7509537.jpg -  [English (United States)] - Bitmap [959x575, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:04:06.863Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [959x575, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Transaksi.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\Transaksi.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Transaksi.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\Transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:27:40.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "f1c5f731-ba0e-460c-a220-069b6de960e3.png -  [English (United States)] - PNG [369x664, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\BuktiTF\\f1c5f731-ba0e-460c-a220-069b6de960e3.png",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\BuktiTF\\f1c5f731-ba0e-460c-a220-069b6de960e3.png",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\BuktiTF\\f1c5f731-ba0e-460c-a220-069b6de960e3.png -  [English (United States)] - PNG [369x664, 32 bit, PNG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\BuktiTF\\f1c5f731-ba0e-460c-a220-069b6de960e3.png -  [English (United States)] - PNG [369x664, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:06:37.288Z",
+              "EditorCaption": " -  [English (United States)] - PNG [369x664, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fba25123-bb14-44c6-b576-1b1cd7d1c91a.jpg -  [English (United States)] - Bitmap [1280x720, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\fba25123-bb14-44c6-b576-1b1cd7d1c91a.jpg",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\gallery\\fba25123-bb14-44c6-b576-1b1cd7d1c91a.jpg",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\fba25123-bb14-44c6-b576-1b1cd7d1c91a.jpg -  [English (United States)] - Bitmap [1280x720, 24 bit, JPG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\gallery\\fba25123-bb14-44c6-b576-1b1cd7d1c91a.jpg -  [English (United States)] - Bitmap [1280x720, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:03:57.072Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1280x720, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ff1c6f45-604a-4f48-9019-7335917e12bf.jpg -  [English (United States)] - Bitmap [1513x892, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\ff1c6f45-604a-4f48-9019-7335917e12bf.jpg",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\gallery\\ff1c6f45-604a-4f48-9019-7335917e12bf.jpg",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\ff1c6f45-604a-4f48-9019-7335917e12bf.jpg -  [English (United States)] - Bitmap [1513x892, 24 bit, JPG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\gallery\\ff1c6f45-604a-4f48-9019-7335917e12bf.jpg -  [English (United States)] - Bitmap [1513x892, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:03:54.974Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1513x892, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "74f3b308-bd9a-4bba-940b-41c16ca447d4.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\bukti\\74f3b308-bd9a-4bba-940b-41c16ca447d4.jpg",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\bukti\\74f3b308-bd9a-4bba-940b-41c16ca447d4.jpg",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\bukti\\74f3b308-bd9a-4bba-940b-41c16ca447d4.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\bukti\\74f3b308-bd9a-4bba-940b-41c16ca447d4.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:03:32.074Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "3838dff6-3e67-477a-9c2a-b12f282a864d.png -  [English (United States)] - PNG [1235x285, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\3838dff6-3e67-477a-9c2a-b12f282a864d.png",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\gallery\\3838dff6-3e67-477a-9c2a-b12f282a864d.png",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\3838dff6-3e67-477a-9c2a-b12f282a864d.png -  [English (United States)] - PNG [1235x285, 32 bit, PNG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\gallery\\3838dff6-3e67-477a-9c2a-b12f282a864d.png -  [English (United States)] - PNG [1235x285, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-04T16:13:30.986Z",
+              "EditorCaption": " -  [English (United States)] - PNG [1235x285, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "898a71d2-ee8e-458b-b7a5-691ee88dc6cb.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\bukti\\898a71d2-ee8e-458b-b7a5-691ee88dc6cb.jpg",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\bukti\\898a71d2-ee8e-458b-b7a5-691ee88dc6cb.jpg",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\bukti\\898a71d2-ee8e-458b-b7a5-691ee88dc6cb.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\bukti\\898a71d2-ee8e-458b-b7a5-691ee88dc6cb.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:03:33.735Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "e4d68cc4-11c5-4ed1-8271-ab1fbd16be96.png -  [English (United States)] - PNG [1235x285, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\e4d68cc4-11c5-4ed1-8271-ab1fbd16be96.png",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\gallery\\e4d68cc4-11c5-4ed1-8271-ab1fbd16be96.png",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\e4d68cc4-11c5-4ed1-8271-ab1fbd16be96.png -  [English (United States)] - PNG [1235x285, 32 bit, PNG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\gallery\\e4d68cc4-11c5-4ed1-8271-ab1fbd16be96.png -  [English (United States)] - PNG [1235x285, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-04T16:13:27.186Z",
+              "EditorCaption": " -  [English (United States)] - PNG [1235x285, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "c4328f50-eba9-4d04-a27a-a9506b21b365.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\bukti\\c4328f50-eba9-4d04-a27a-a9506b21b365.jpg",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\bukti\\c4328f50-eba9-4d04-a27a-a9506b21b365.jpg",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\bukti\\c4328f50-eba9-4d04-a27a-a9506b21b365.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\bukti\\c4328f50-eba9-4d04-a27a-a9506b21b365.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:03:37.756Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ecad03af-5abc-4067-8a6e-98774a5e5cc8.jpg -  [English (United States)] - Bitmap [948x1685, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\ecad03af-5abc-4067-8a6e-98774a5e5cc8.jpg",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\gallery\\ecad03af-5abc-4067-8a6e-98774a5e5cc8.jpg",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\gallery\\ecad03af-5abc-4067-8a6e-98774a5e5cc8.jpg -  [English (United States)] - Bitmap [948x1685, 24 bit, JPG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\gallery\\ecad03af-5abc-4067-8a6e-98774a5e5cc8.jpg -  [English (United States)] - Bitmap [948x1685, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-04T16:13:33.931Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [948x1685, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "c4b52f18-8c7d-4625-b580-a15b00be4ca6.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\bukti\\c4b52f18-8c7d-4625-b580-a15b00be4ca6.jpg",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\wwwroot\\bukti\\c4b52f18-8c7d-4625-b580-a15b00be4ca6.jpg",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\wwwroot\\bukti\\c4b52f18-8c7d-4625-b580-a15b00be4ca6.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "RelativeToolTip": "API_DikaWaroong\\wwwroot\\bukti\\c4b52f18-8c7d-4625-b580-a15b00be4ca6.jpg -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-06T20:03:36.57Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [302x403, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateBuktiTFRequest.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\UpdateBuktiTFRequest.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\UpdateBuktiTFRequest.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\UpdateBuktiTFRequest.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\UpdateBuktiTFRequest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T19:56:47.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Controllers\\KategoriController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Controllers\\KategoriController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwGsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:22:07.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\GalleryController.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Controllers\\GalleryController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\GalleryController.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Controllers\\GalleryController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:42:34.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateTransaksiRequest.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\CreateTransaksiRequest.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\CreateTransaksiRequest.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\CreateTransaksiRequest.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\CreateTransaksiRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:28:15.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateDetailTransaksiRequest.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\CreateDetailTransaksiRequest.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\CreateDetailTransaksiRequest.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\CreateDetailTransaksiRequest.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\CreateDetailTransaksiRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:45:30.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DetailTransaksi.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\DetailTransaksi.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\DetailTransaksi.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\DetailTransaksi.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\DetailTransaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:40:17.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\CreateProductRequest.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\CreateProductRequest.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:08:17.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateGalleryRequest.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\CreateGalleryRequest.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\CreateGalleryRequest.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\CreateGalleryRequest.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\CreateGalleryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:41:43.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SqlDBHelper.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Helpers\\SqlDBHelper.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Helpers\\SqlDBHelper.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Helpers\\SqlDBHelper.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Helpers\\SqlDBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:52:54.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Gallery.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\Gallery.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Gallery.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\Gallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:41:06.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\Contact.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Contact.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:05:48.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:06:23.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Kategori.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\Kategori.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Kategori.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\Kategori.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:21:35.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "API_DikaWaroong.http",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\API_DikaWaroong.http",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\API_DikaWaroong.http",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\API_DikaWaroong.http",
+              "RelativeToolTip": "API_DikaWaroong\\API_DikaWaroong.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-29T15:42:12.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:18:53.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Dtos\\LoginDto.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:15:57.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Dtos\\RegisterDto.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:15:24.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\Models\\Role.cs",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\Models\\Role.cs",
+              "RelativeToolTip": "API_DikaWaroong\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:10:32.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "API_DikaWaroong.csproj",
+              "DocumentMoniker": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\API_DikaWaroong.csproj",
+              "RelativeDocumentMoniker": "API_DikaWaroong\\API_DikaWaroong.csproj",
+              "ToolTip": "D:\\Kuliah farel\\Semester 4\\PAA\\API_DikaWaroong\\API_DikaWaroong\\API_DikaWaroong.csproj",
+              "RelativeToolTip": "API_DikaWaroong\\API_DikaWaroong.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T14:37:54.309Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
